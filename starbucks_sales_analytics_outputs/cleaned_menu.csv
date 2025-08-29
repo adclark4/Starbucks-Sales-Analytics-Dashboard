@@ -1,0 +1,101 @@
+item_id,item_name,category,is_cold,is_caffeinated,item_price
+1001,Blonde Roast,Coffee,False,True,2.95
+1002,Pike Place Roast,Coffee,False,True,2.95
+1003,Dark Roast,Coffee,False,True,2.95
+1004,Caffè Americano,Coffee,False,True,3.25
+1005,Caffè Latte,Coffee,False,True,4.45
+1006,Cappuccino,Coffee,False,True,4.45
+1007,Flat White,Coffee,False,True,4.95
+1008,Caramel Macchiato,Coffee,False,True,5.25
+1009,Mocha,Coffee,False,True,5.15
+1010,White Chocolate Mocha,Coffee,False,True,5.55
+1011,Espresso,Coffee,False,True,2.65
+1012,Espresso Con Panna,Coffee,False,True,2.95
+1013,Espresso Macchiato,Coffee,False,True,2.95
+1014,Cortado,Coffee,False,True,3.45
+1015,Vanilla Latte,Coffee,False,True,4.75
+1016,Hazelnut Latte,Coffee,False,True,4.75
+1017,Toasted White Chocolate Latte,Coffee,False,True,5.05
+1018,Iced Coffee,Coffee,True,True,3.45
+1019,Iced Latte,Coffee,True,True,4.65
+1020,Iced Caramel Macchiato,Coffee,True,True,5.45
+1021,Iced White Chocolate Mocha,Coffee,True,True,5.75
+1022,Cold Brew,Coffee,True,True,4.25
+1023,Vanilla Sweet Cream Cold Brew,Coffee,True,True,4.75
+1024,Nitro Cold Brew,Coffee,True,True,4.95
+1025,Chocolate Cream Cold Brew,Coffee,True,True,5.15
+1026,Cold Brew With Vanilla Sweet Cream Cold Foam,Coffee,True,True,5.25
+1027,Cold Brew With Salted Caramel Cold Foam,Coffee,True,True,5.25
+1028,Cold Brew With Pumpkin Cream Cold Foam,Coffee,True,True,5.25
+1029,Pumpkin Spice Latte,Seasonal,False,True,5.75
+1030,Iced Pumpkin Spice Latte,Seasonal,True,True,5.95
+1031,Peppermint Mocha,Seasonal,False,True,5.95
+1032,Iced Peppermint Mocha,Seasonal,True,True,6.15
+1033,Gingerbread Latte,Seasonal,False,True,5.65
+1034,Iced Gingerbread Latte,Seasonal,True,True,5.85
+1035,Toasted White Chocolate Mocha,Seasonal,False,True,5.95
+1036,Iced Toasted White Chocolate Mocha,Seasonal,True,True,6.15
+1037,Coffee Frappuccino,Frappuccino,True,True,4.95
+1038,Mocha Frappuccino,Frappuccino,True,True,5.45
+1039,Caramel Frappuccino,Frappuccino,True,True,5.45
+1040,Java Chip Frappuccino,Frappuccino,True,True,5.65
+1041,White Chocolate Mocha Frappuccino,Frappuccino,True,True,5.75
+1042,Matcha Crème Frappuccino,Frappuccino,True,True,5.45
+1043,Strawberries & Crème Frappuccino,Frappuccino,True,False,5.25
+1044,Vanilla Bean Crème Frappuccino,Frappuccino,True,False,4.95
+1045,Pumpkin Spice Frappuccino,Frappuccino,True,True,5.95
+1046,Peppermint Mocha Frappuccino,Frappuccino,True,True,6.05
+1047,Earl Grey Tea,Tea,False,True,2.95
+1048,Royal English Breakfast Tea,Tea,False,True,2.95
+1049,Mint Majesty Herbal Tea,Tea,False,False,2.95
+1050,Jade Citrus Mint Tea,Tea,False,True,2.95
+1051,Chai Tea Latte,Tea,False,True,4.65
+1052,London Fog Tea Latte,Tea,False,True,4.65
+1053,Matcha Latte,Tea,False,True,4.95
+1054,Iced Black Tea,Tea,True,True,3.25
+1055,Iced Green Tea,Tea,True,True,3.25
+1056,Iced Passion Tango Tea,Tea,True,False,3.25
+1057,Iced Black Tea Lemonade,Tea,True,True,3.75
+1058,Iced Green Tea Lemonade,Tea,True,True,3.75
+1059,Iced Passion Tango Tea Lemonade,Tea,True,False,3.75
+1060,Iced Chai Tea Latte,Tea,True,True,4.85
+1061,Iced Matcha Latte,Tea,True,True,5.15
+1062,Strawberry Açaí Refresher,Refresher,True,False,4.45
+1063,Mango Dragonfruit Refresher,Refresher,True,False,4.45
+1064,Pineapple Passionfruit Refresher,Refresher,True,False,4.45
+1065,Kiwi Starfruit Refresher,Refresher,True,False,4.45
+1066,Pink Drink,Refresher,True,False,4.95
+1067,Dragon Drink,Refresher,True,False,4.95
+1068,Paradise Drink,Refresher,True,False,4.95
+1069,Lemonade,Other,True,False,2.95
+1070,Spindrift Sparkling Water,Other,True,False,2.75
+1071,Bottled Water,Other,True,False,2.25
+1072,Hot Chocolate,Other,False,False,3.95
+1073,Steamed Milk,Other,False,False,2.65
+1074,Blueberry Muffin,Bakery,False,False,2.95
+1075,Banana Nut Muffin,Bakery,False,False,3.15
+1076,Chocolate Chunk Cookie,Bakery,False,False,2.95
+1077,Pumpkin Loaf,Bakery,False,False,3.25
+1078,Lemon Loaf,Bakery,False,False,3.25
+1079,Butter Croissant,Bakery,False,False,3.25
+1080,Chocolate Croissant,Bakery,False,False,3.45
+1081,Almond Croissant,Bakery,False,False,3.65
+1082,Everything Bagel,Bakery,False,False,2.45
+1083,Plain Bagel,Bakery,False,False,2.25
+1084,Multigrain Bagel,Bakery,False,False,2.45
+1085,Cheese Danish,Bakery,False,False,3.25
+1086,Cinnamon Swirl Coffee Cake,Bakery,False,False,3.45
+1087,Bacon Gouda Sandwich,Food,False,False,4.95
+1088,Sausage Cheddar Sandwich,Food,False,False,4.45
+1089,Turkey Bacon Cheddar Sandwich,Food,False,False,4.65
+1090,Ham & Swiss Croissant,Food,False,False,4.25
+1091,Spinach Feta Wrap,Food,False,False,4.75
+1092,Impossible Breakfast Sandwich,Food,False,False,5.25
+1093,Roasted Tomato Mozzarella Panini,Food,False,False,6.25
+1094,Turkey Pesto Panini,Food,False,False,6.95
+1095,Chicken Caprese Sandwich,Food,False,False,6.95
+1096,Chicken & Quinoa Protein Bowl,Food,False,False,7.95
+1097,Pb&J Protein Box,Food,False,False,5.95
+1098,Cheese & Fruit Protein Box,Food,False,False,6.25
+1099,Bistro Box: Eggs & Cheddar,Food,False,False,5.45
+1100,Sous Vide Egg Bites,Food,False,False,4.65
