@@ -58,31 +58,6 @@ The program generates professional charts such as:
 
 ---
 
-## 📂 Project Structure
-Starbucks-Sales-Analytics-Dashboard/
-│
-├── menu.csv
-├── customers.csv
-├── sales.csv
-├── starbucks_sales_analytics.py
-│
-└── starbucks_sales_analytics_outputs/
-├── cleaned_menu.csv
-├── cleaned_customers.csv
-├── cleaned_sales.csv
-├── top10_items_revenue.png
-├── daily_revenue_trend.png
-├── revenue_by_channel.png
-├── revenue_by_payment_method.png
-├── aov_by_loyalty.png
-├── revenue_by_weekday.png
-├── daily_revenue_forecast_lr.png
-├── daily_revenue_forecast_weekday.png
-├── segment_customer_count.png
-└── segment_revenue_share.png
-
----
-
 ## ▶️ How to Run
 1. Clone the repo:
    ```bash
@@ -91,5 +66,3 @@ Starbucks-Sales-Analytics-Dashboard/
 2. Install dependencies: pip install -r requirements.txt
 3. Run the program: python starbucks_sales_analytics.py
 4. Outputs will be saved in: /starbucks_sales_analytics_outputs/
-
-
